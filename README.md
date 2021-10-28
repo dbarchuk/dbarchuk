@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dbarchuk
+- 👋 Hi, I’m Dmitriy Barchuk
 - 👀 I’m interested in python development (Django, FastAPI, sqlalchemy etc.)
 - 🌱 I’m currently deep learning python at WebNauts.pro
 - 💞️ I’m looking to collaborate on python web development (as a backend)
